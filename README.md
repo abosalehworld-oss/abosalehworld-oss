@@ -11,5 +11,10 @@ and performance-first rules. No more generic UI Slop.
 
 Works with: WordPress · Shopify · React · Mobile · Web Apps · Desktop Apps
 
-```bash
-npx skills add abosalehworld-oss/creative-ui-ux-skill
+    npx skills add abosalehworld-oss/creative-ui-ux-skill
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Saleh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mr-mohamed-saleh/)
