@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Mohamed Saleh 👋
 
-<!--
-**abosalehworld-oss/abosalehworld-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI tools that solve real design problems.
 
-Here are some ideas to get you started:
+### 🎨 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Creative UI/UX Designer Skill](https://github.com/abosalehworld-oss/creative-ui-ux-skill)**
+
+An AI skill that forces live research, strict design gates,
+and performance-first rules. No more generic UI Slop.
+
+Works with: WordPress · Shopify · React · Mobile · Web Apps · Desktop Apps
+
+```bash
+npx skills add abosalehworld-oss/creative-ui-ux-skill
